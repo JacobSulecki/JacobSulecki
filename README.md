@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacobSulecki
-- 👀 I’m interested in to create websites using different technologies
-- 🌱 I’m currently learning the ins and outs of modern front end engineering with newer css and scss with package bundlers (parcel and webpack)
-- 💞️ I’m looking to collaborate on really anything I can get an oportunity with
+- 👀 I’m interested in creating websites and programs using different technologies
+- 🌱 Currently working on modern front-end engineering along with general programming knowledge with Python
+- 💞️ I’m looking to collaborate on really anything I can get an opportunity with
 - 📫 How to reach me: jacobsulecki@gmail.com
 
 <!---
